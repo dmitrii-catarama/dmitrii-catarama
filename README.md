@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Catarama Dmitrii</h1>
 <h3 align="center">A passionate student in Computer Science</h3>
-<img align="right" alt = „Coding" width=„200” height="200" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+<img align="right" alt="Coding" width="200" height="200" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+
 
 - 🌱 I’m currently learning **Java, Spring Framework**
 
