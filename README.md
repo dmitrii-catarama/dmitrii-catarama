@@ -2,21 +2,21 @@
 
 My name is Catarama Dmitrii and I'm a software developer/DevOps engineer. I'm from Republic of Moldova, living in Romania, Bucharest.
 
-🎓 **Studying:**
-- Second-year Computer Science student at Politehnica University of Bucharest.
+- 🎓 **Studying:**
+  - Second-year Computer Science student at Politehnica University of Bucharest.
 <br><br>
-💡 **Focus Areas:**
-- **Programming Paradigms:** Exploring diverse problem-solving approaches.
-- **Communication Protocols:** Understanding efficient data exchange.
-- **Algorithm Design:** Sharpening problem-solving skills.
+- 💡 **Focus Areas:**
+  - **Programming Paradigms:** Exploring diverse problem-solving approaches.
+  - **Communication Protocols:** Understanding efficient data exchange.
+  - **Algorithm Design:** Sharpening problem-solving skills.
 <br><br>
-🚀 **Tech Enthusiast:**
-- Actively applying theoretical knowledge to real-world projects.
-- Currently learning **Java, Spring Framework**
-- Proficient in Java, C.
+- 🚀 **Tech Enthusiast:**
+  - Actively applying theoretical knowledge to real-world projects.
+  - Currently learning **Java, Spring Framework**
+  - Proficient in Java, C.
 <br><br>
-🔧 **Projects:**
-- Check out my repositories for hands-on examples related to my studies.
+- 🔧 **Projects:**
+  - Check out my repositories for hands-on examples related to my studies.
 <br><br>
 
 <h4 align="left">Connect with me:</h4>
