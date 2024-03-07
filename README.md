@@ -1,4 +1,5 @@
-<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> </h1> 
+<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> </h1> 
+<img src="https://github.com/dmitrii-catarama/dmitrii-catarama/blob/main/img/pixlr-image-generator-6370ff3f-f22d-48ca-99c8-1d60b2ce9c2c.png" align="center" width="100%" height="350px" />
 
 My name is Catarama Dmitrii and I'm a software developer/DevOps engineer. I'm from Republic of Moldova, living in Romania, Bucharest.
 
